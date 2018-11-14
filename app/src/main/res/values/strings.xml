@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">True False Quiz</string>
+    <string name="quiz_false">False</string>
+    <string name="quiz_true">True</string>
+    <string name="quiz_QuizNumberQuestion">"Question "</string>
+    <string name="quiz_outOfTen">" out of 10"</string>
+    <string name="quiz_score">"Score: "</string>
+    <string name="quiz_correct">CORRECT</string>
+    <string name="quiz_wrong">WRONG</string>
+    <string name="score_finalScore">"You scored "</string>
+    <string name="score_gameOver">"GAME OVER!"</string>
+    <string name="score_finalScore2">" out of 10!"</string>
+    <string name="question">Question</string>
+    <string name="question">Question</string>
+</resources>

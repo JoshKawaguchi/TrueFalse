@@ -1,0 +1,86 @@
+[
+  {
+    "question": "The Sahara is the largest desert on Earth.",
+    "answer": false
+  },
+  {
+    "question": "Shaving or cutting your hair makes it grow back quicker.",
+    "answer": false
+  },
+  {
+    "question": "If you have 10 dollars in your pocket and no debts , you have more wealth than 25% of Americans",
+    "answer": true
+  },
+  {
+    "question": "There are only 2 escalators in the state of Wyoming.",
+    "answer": true
+  },
+  {
+    "question": "Grass was not common back when dinosaur existed.",
+    "answer": true
+  },
+  {
+    "question": "Paper towels used to be Pay per towel machines that would dispense a little wash cloth for a nickel.",
+    "answer": false
+  },
+  {
+    "question": "A person's eyes do not grow.",
+    "answer": false
+  },
+  {
+    "question": "Tic Tacs are sugar free.",
+    "answer": false
+  },
+  {
+    "question": "A person's blood is blue when it is in their viens or is deoxygenated.",
+    "answer": false
+  },
+  {
+    "question": "Donald Trump is the 45th person to be the president of the United States",
+    "answer": false
+  }
+]
+
+
+
+//{
+//  "question": "El Sahara es el desierto más grande de la Tierra",
+//  "answer": falso
+//},
+//{
+//  "question": "Afeitarse o cortarse el cabello hace que vuelva a crecer más rápido",
+//  "answer": falso
+//},
+//{
+//  "question": "Si tiene 10 dólares en su bolsillo y no tiene deudas, tiene más riqueza que el 25% de los estadounidenses",
+//  "answer": verdadero
+//},
+//{
+//  "question": "Sólo hay 2 escaleras mecánicas en el estado de Wyoming",
+//  "answer": verdadero
+//},
+//{
+//  "question": "La hierba no era común cuando existía el dinosaurio",
+//  "answer": verdadero
+//},
+//{
+//  "question": "Las toallas de papel solían ser máquinas de pago por toalla que dispensaban un poco de paño de lavado por un níquel",
+//  "answer": falso
+//},
+//{
+//  "question": "Los ojos de una persona no crecen",
+//  "answer": falso
+//},
+//{
+//  "question": "Los tic tacs no contienen azúcar",
+//  "answer": falso
+//},
+//{
+//  "question": "La sangre de una persona es azul cuando está en sus viens o está desoxigenada",
+//  "answer": falso
+//},
+//{
+//  "question": "Donald Trump es la persona número 45 en ser presidente de los Estados Unidos",
+//  "answer": falso
+//}
+//]
