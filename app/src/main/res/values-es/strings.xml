@@ -11,4 +11,5 @@
     <string name="score_finalScore">"has anotado "</string>
     <string name="score_gameOver">juego terminado!</string>
     <string name="score_finalScore2">" fuera de 10!"</string>
+    <string name="question">Pregunta</string>
 </resources>
